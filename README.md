@@ -39,9 +39,11 @@ Though some of us have already explored the permissionless "meaningspace" of raw
 ## Outcomes
 
 * 2 poems which engage the idea of language as a material object:
-  * 1 should engage with only a single letter as a visual form (using the `p5.js` editor)
-  * 1 should use only text to engage some embodied experience: voice, touch, color -- the list is open
+  * 1 **must** engage with only a single letter as a visual form (using the `p5.js` editor)
+  * 1 **_may_** use only text to engage some embodied experience: voice, touch, color -- the list is open-ended
     * `p5.js`, for example, has the ability to take in microphone input
+  * 1 **_may_** engage with the more combinatoric, permutational texture that Piringer and Montfort use
+    * for this, using Python is OK (probably your best bet?)
 
 To assist you in creating your work, we will dedicate a significant amount of time during lab exploring some of hte basic ways we use `p5.js`. Keep in mind that you may always use `RiTa` (link in Discord channel) to supplement your work if you choose to do a text-based, permutative, "drone" poem like "part of" or "interests".
 
@@ -49,8 +51,15 @@ To assist you in creating your work, we will dedicate a significant amount of ti
 
 * Code for these works should be placed in the `src` directory.
 * Outcomes which aren't on the `p5.js` platform should be added to the `writing` directory
+* For outcomes produced using `p5.js`, either:
+  * right-click and `Save As...` on the picture canvas, or
+  * screencapture the work (this is especially useful if the canvas uses the `reset()` function on click)
 
-For `p5.js`-based works, I invite you to link to the sketch in the table below:
+For `p5.js`-based works, I invite you to link to the sketch in the table below. To get your link:
+
+* click `File`
+* locate and click `Share`
+* choose the `Full Screen` option
 
 |Title |Sketch URL|
 |:-----|:---------|
