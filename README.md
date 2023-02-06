@@ -49,3 +49,9 @@ To assist you in creating your work, we will dedicate a significant amount of ti
 
 * Code for these works should be placed in the `src` directory.
 * Outcomes which aren't on the `p5.js` platform should be added to the `writing` directory
+
+For `p5.js`-based works, I invite you to link to the sketch in the table below:
+
+|Title |Sketch URL|
+|:-----|:---------|
+|      |          |
